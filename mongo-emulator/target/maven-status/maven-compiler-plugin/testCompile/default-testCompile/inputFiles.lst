@@ -1,0 +1,4 @@
+/data/apps/kenshinn/usergrid/stack/mongo-emulator/src/test/java/org/apache/usergrid/mongo/BasicMongoTest.java
+/data/apps/kenshinn/usergrid/stack/mongo-emulator/src/test/java/org/apache/usergrid/mongo/MongoQueryTest.java
+/data/apps/kenshinn/usergrid/stack/mongo-emulator/src/test/java/org/apache/usergrid/mongo/AbstractMongoTest.java
+/data/apps/kenshinn/usergrid/stack/mongo-emulator/src/test/java/org/apache/usergrid/mongo/DatabaseInitializer.java

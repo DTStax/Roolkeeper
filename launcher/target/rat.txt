@@ -1,0 +1,68 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2016-07-07T14:22:16+08:00
+Notes: 1
+Binaries: 15
+Archives: 0
+Standards: 15
+
+Apache Licensed: 15
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/launch
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/pom.xml
+  N     /data/apps/kenshinn/usergrid/stack/launcher/README.txt
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/App.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/AppleUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/CustomJSPTemplateProcessor.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/EmbeddedServerHelper.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/JarMain.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/LauncherFrame.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/LogViewerFrame.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/java/org/apache/usergrid/launcher/Server.java
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/cassandra.yaml
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/log4j-server.properties
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/log4j.properties
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/dock_icon.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/icon_16.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/icon_256.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/icon_32.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/icon_64.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/log_viewer.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/start.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/start_active.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/status_green.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/status_off.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/status_red.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/status_yellow.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/stop.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/stop_active.png
+  B     /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/org/apache/usergrid/launcher/web_browser.png
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/usergrid-standalone-context.xml
+  AL    /data/apps/kenshinn/usergrid/stack/launcher/src/main/resources/usergrid-standalone.properties
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

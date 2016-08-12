@@ -1,0 +1,62 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2016-08-05T17:52:44+08:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 25
+
+Apache Licensed: 25
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/pom.xml
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/AvailablePortFinder.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/CassandraResource.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/ClearShiroSubject.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/DataControl.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/DataLoader.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/SchemaManager.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/cassandra/SpringResource.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/lock/MultiProcessBarrier.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/lock/MultiProcessLocalLock.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/setup/ConcurrentProcessSingleton.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/TestHelper.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/java/org/apache/usergrid/TomcatMain.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/resources/cassandra.yaml
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/main/resources/log4j.properties
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/AnotherCassandraResourceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/FakeSchemaManager.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/OkThisIsTheLastIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/SpringResourceTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/lock/MultiProcessBarrierTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/lock/MultiProcessLocalLockTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/resources/project.properties
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/resources/usergrid-custom-test.properties
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/resources/usergrid-properties-context.xml
+  AL    /data/apps/kenshinn/usergrid/stack/test-utils/src/test/resources/usergrid-test-context.xml
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

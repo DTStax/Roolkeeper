@@ -1,0 +1,232 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2016-07-07T14:20:52+08:00
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 194
+
+Apache Licensed: 194
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /data/apps/kenshinn/usergrid/stack/services/pom.xml
+  N     /data/apps/kenshinn/usergrid/stack/services/README.txt
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/AccountCreationProps.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/ActivationState.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/ApplicationCreator.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/ApplicationInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/cassandra/AccountCreationPropsImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/cassandra/ApplicationCreatorImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/cassandra/ManagementServiceImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/ApplicationCreationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/DisabledAdminUserException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/DisabledAppUserException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/IncorrectPasswordException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/ManagementException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/RecentlyUsedPasswordException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/UnableToLeaveOrganizationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/UnactivatedAdminUserException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/UnactivatedAppUserException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/UnactivatedOrganizationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/exceptions/UnconfirmedAdminUserException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/export/ExportJob.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/export/ExportService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/export/ExportServiceImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/export/S3Export.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/export/S3ExportImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/ManagementService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/OrganizationInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/OrganizationOwnerInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/OrganizationProfile.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/UserInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/management/utils/AccountUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/AuthPrincipalInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/AuthPrincipalType.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/BcryptCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/EncryptionCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/Md5HashCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/PlainTextCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/SaltedHasherCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/command/Sha1HashCommand.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/EncryptionService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/crypto/EncryptionServiceImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/oauth/AccessInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/oauth/ClientCredentialsInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/oauth/OAuthProxy.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/oauth/OAuthProxyFactory.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/AbstractProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/FacebookProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/FoursquareProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/PingIdentityProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/SignInAsProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/providers/SignInProviderFactory.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/salt/NoOpSaltProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/salt/PropertiesSaltProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/salt/SaltProvider.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AbstractAccessTokenCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AbstractClientCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AbstractPasswordCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AccessTokenCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AdminUserAccessToken.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AdminUserCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/AdminUserPassword.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationAccessToken.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationClientCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationGuest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationUserAccessToken.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationUserCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ApplicationUserPassword.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/ClientCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/OrganizationAccessToken.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/OrganizationClientCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/OrganizationCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/PasswordCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/credentials/PrincipalCredentials.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/CustomPermission.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/CustomPermissionResolver.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/PrincipalCredentialsToken.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/AdminUserPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/ApplicationGuestPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/ApplicationPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/ApplicationUserPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/OrganizationPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/PrincipalIdentifier.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/principals/UserPrincipal.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/Realm.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/shiro/utils/SubjectUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/cassandra/TokenServiceImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/exceptions/BadTokenException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/exceptions/ExpiredTokenException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/exceptions/InvalidTokenException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/exceptions/TokenException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/TokenCategory.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/TokenInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/security/tokens/TokenService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/AbstractCollectionService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/AbstractConnectionsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/AbstractPathBasedColllectionService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/AbstractService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/activities/ActivitiesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/applications/ApplicationsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/AssetsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/AssetMimeHandler.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/AssetUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/AwsSdkS3BinaryStore.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/BinaryStore.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/LocalFileBinaryStore.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/assets/data/S3BinaryStore.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/devices/DevicesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/devices/users/UsersService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/ForbiddenServiceOperationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/ServiceException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/ServiceInvocationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/ServiceResourceNotFoundException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/UndefinedServiceEntityTypeException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/exceptions/UnsupportedServiceOperationException.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/generic/GenericCollectionService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/generic/GenericConnectionsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/generic/RootCollectionService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/activities/ActivitiesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/GroupsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/roles/RolesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/users/activities/ActivitiesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/users/devices/DevicesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/groups/users/UsersService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/messages/MessagesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/roles/groups/GroupsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/roles/RolesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/roles/users/UsersService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/Service.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceAction.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceCollectionEventListener.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceContext.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceExecutionEvent.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceExecutionEventListener.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceInfo.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceManager.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceManagerFactory.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceParameter.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServicePayload.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceRequest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceResults.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/ServiceUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/activities/ActivitiesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/devices/DevicesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/following/FollowingService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/groups/GroupsService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/roles/RolesService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/services/users/UsersService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/java/org/apache/usergrid/utils/PythonUtils.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/pyusergrid/__init__.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/pyusergrid/services/__init__.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/pyusergrid/services/pytest/__init__.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/pyusergrid/services/pytest/PytestService.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/pyusergrid/services/pytest/test.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/test/__init__.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/python/test/test.py
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/main/resources/usergrid-services-context.xml
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/ConcurrentServiceITSuite.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/cassandra/ApplicationCreatorIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/cassandra/ExportServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/cassandra/ManagementServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/cassandra/ManagementTestHelperImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/cassandra/MockS3ExportImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/EmailFlowIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/ManagementTestHelper.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/MockImapClient.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/OrganizationIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/management/RoleIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/python/JythonTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/crypto/command/BcryptCommandTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/crypto/command/Md5HashCommandTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/crypto/command/Sha1HashCommandTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/crypto/EncryptionServiceImplTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/CustomResolverTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/providers/FacebookProviderIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/providers/PingIdentityProviderIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/security/tokens/TokenServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/ServiceApplication.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/ServiceITSetup.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/ServiceITSetupImpl.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/ServiceITSuite.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/AbstractServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ActivitiesServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ApplicationsServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/assets/data/AssetUtilsTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/CollectionServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ConnectionsServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/GroupServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/RolesServiceIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ServiceFactoryIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ServiceInfoTest.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ServiceInvocationIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/ServiceRequestIT.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/simple/SimpleService.java
+  AL    /data/apps/kenshinn/usergrid/stack/services/src/test/java/org/apache/usergrid/services/UsersServiceIT.java
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

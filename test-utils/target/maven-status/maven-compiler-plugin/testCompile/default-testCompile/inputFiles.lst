@@ -1,0 +1,6 @@
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/lock/MultiProcessBarrierTest.java
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/lock/MultiProcessLocalLockTest.java
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/OkThisIsTheLastIT.java
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/SpringResourceTest.java
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/AnotherCassandraResourceIT.java
+/data/apps/kenshinn/usergrid/stack/test-utils/src/test/java/org/apache/usergrid/cassandra/FakeSchemaManager.java

@@ -1,0 +1,48 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2016-07-07T14:21:38+08:00
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 10
+
+Apache Licensed: 10
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/pom.xml
+  N     /data/apps/kenshinn/usergrid/stack/websocket/README.txt
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketChannelHandler.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketKeyStore.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketServer.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketServerIndexPage.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketServerPipelineFactory.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/main/java/org/apache/usergrid/websocket/WebSocketSslContextFactory.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/test/java/org/apache/usergrid/websocket/ExampleListener.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/test/java/org/apache/usergrid/websocket/SimpleMessageProducer.java
+  AL    /data/apps/kenshinn/usergrid/stack/websocket/src/test/java/org/apache/usergrid/websocket/WebSocketServerTest.java
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

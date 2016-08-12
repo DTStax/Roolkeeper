@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<!-- Originally downloaded here: 
+		http://archive.eclipse.org/eclipse/downloads/drops/R-3.3.1-200709211145/index.php#JDTCORE
+
+		The md5 and sha1 checksums were missing.
+
+		Fixed the MANIFEST.MF in both the jar and source jar to change 
+		"Bundle-Version: 3.3.0" to "Bundle-Version: 3.3.1".
+	-->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.eclipse.jdt.core.compiler</groupId>
+	<artifactId>ecj</artifactId>
+	<version>3.3.1</version>
+	<packaging>jar</packaging>
+	<name>Eclipse ECJ</name>
+	<description>Eclipse JDT Core Batch Compiler</description>
+	<url>http://www.eclipse.org/jdt/</url>
+	<licenses>
+		<license>
+			<name>Eclipse Public License v1.0</name>
+			<url>http://www.eclipse.org/org/documents/epl-v10.php</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<url>http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.jdt.core/</url>
+		<connection>:pserver:anonymous@dev.eclipse.org:/cvsroot/eclipse</connection>
+	</scm>
+	<developers>
+		<!-- I didn't develop ECJ, but the Central Sync Requirements mandate a developer in the POM:
+			https://docs.sonatype.org/display/Repository/Central+Sync+Requirements
+		-->
+		<developer>
+			<id>ianbrandt</id>
+			<name>Ian Brandt</name>
+			<email>ian@ianbrandt.com</email>
+		</developer>
+	</developers>
+</project>

@@ -1,0 +1,13 @@
+org/apache/usergrid/setup/ConcurrentProcessSingleton.class
+org/apache/usergrid/setup/ConcurrentProcessSingleton$1.class
+org/apache/usergrid/lock/MultiProcessBarrier.class
+org/apache/usergrid/cassandra/DataControl.class
+org/apache/usergrid/TomcatMain.class
+org/apache/usergrid/cassandra/SchemaManager.class
+org/apache/usergrid/cassandra/SpringResource.class
+org/apache/usergrid/cassandra/DataLoader.class
+org/apache/usergrid/cassandra/AvailablePortFinder.class
+org/apache/usergrid/cassandra/CassandraResource.class
+org/apache/usergrid/cassandra/ClearShiroSubject.class
+org/apache/usergrid/lock/MultiProcessLocalLock.class
+org/apache/usergrid/TestHelper.class
