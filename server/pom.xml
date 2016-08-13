@@ -22,8 +22,7 @@
 
         <dependency>
             <groupId>cn.dtstax.roolkeeper</groupId>
-            <artifactId>roolkeeper-services</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <artifactId>roolkeeper-rest</artifactId>
         </dependency>
 
         <dependency>

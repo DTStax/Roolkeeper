@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>roolkeeper-services</artifactId>
+    <artifactId>roolkeeper-models</artifactId>
     <packaging>jar</packaging>
 
-    <name>roolkeeper-services</name>
+    <name>roolkeeper-models</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -18,10 +18,7 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>cn.dtstax.roolkeeper</groupId>
-            <artifactId>roolkeeper-core</artifactId>
-        </dependency>
 
     </dependencies>
+
 </project>
