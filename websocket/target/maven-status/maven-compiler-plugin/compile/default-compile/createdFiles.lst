@@ -1,6 +1,0 @@
-org/apache/usergrid/websocket/WebSocketServerPipelineFactory.class
-org/apache/usergrid/websocket/WebSocketServer.class
-org/apache/usergrid/websocket/WebSocketServerIndexPage.class
-org/apache/usergrid/websocket/WebSocketKeyStore.class
-org/apache/usergrid/websocket/WebSocketSslContextFactory.class
-org/apache/usergrid/websocket/WebSocketChannelHandler.class

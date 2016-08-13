@@ -1,8 +1,0 @@
-org/apache/usergrid/cassandra/SpringResourceTest.class
-org/apache/usergrid/cassandra/AnotherCassandraResourceIT.class
-org/apache/usergrid/lock/MultiProcessLocalLockTest.class
-org/apache/usergrid/cassandra/FakeSchemaManager.class
-org/apache/usergrid/lock/MultiProcessBarrierTest$1.class
-org/apache/usergrid/lock/MultiProcessBarrierTest$BarrierThread.class
-org/apache/usergrid/lock/MultiProcessBarrierTest.class
-org/apache/usergrid/cassandra/OkThisIsTheLastIT.class
