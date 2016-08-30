@@ -21,6 +21,7 @@
         <dependency>
             <groupId>cn.dtstax.roolkeeper</groupId>
             <artifactId>roolkeeper-core</artifactId>
+            <version>${project.version}</version>
         </dependency>
 
     </dependencies>
